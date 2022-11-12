@@ -1,5 +1,6 @@
 # DoZChar
-LoZ testing
+LoZ testing 
+(macOS based repository )
 
 THIS CODE FOR TESTING AND TRAINING ONLY! USE AT YOUR OWN RISK...SEE BELOW
 
